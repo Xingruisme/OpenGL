@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="silksolution.vcxproj" />
+  <Project Path="silksolution.vcxproj" Id="8c8a6047-76c1-47c7-bc66-a3beee1c1774" />
 </Solution>
